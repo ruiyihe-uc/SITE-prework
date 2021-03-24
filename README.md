@@ -44,12 +44,15 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Clicking on each button:
+
 ![](https://i.imgur.com/ckSh5rg.gif)
 
 Start the game:
+
 ![](https://i.imgur.com/ZY2ZsVj.gif)
 
 Stop the game half-way:
+
 ![](https://i.imgur.com/3P94ECF.gif)
 
 
